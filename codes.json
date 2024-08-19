@@ -1,0 +1,8 @@
+{
+  "UNBANWAVE": {
+    "STOMP_EFFECT": 1,
+    "BLOOD_EFFECT": 1,
+    "STREAK_TAG": 1,
+    "STREAK": 10
+  }
+}
